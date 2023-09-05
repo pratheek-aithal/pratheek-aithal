@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pratheek-aithal
-- 👀 I’m interested in Front-end development
+- 👀 I’m interested in Back-end development
 
 
 <!---
